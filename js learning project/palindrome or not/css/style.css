@@ -1,0 +1,26 @@
+body{
+    /* border: 1px solid; */
+    margin-top: 300px;
+    text-align: center;
+
+}
+div{
+    background-color: bisque;
+    border:1px solid;
+    margin:0 200px;
+}
+h1{
+    border:1px solid;
+}
+button{
+    margin-top: 12px;
+    font-size: 16px;
+    text-size-adjust: inherit;
+}
+input{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.error{
+    color: red;
+}
